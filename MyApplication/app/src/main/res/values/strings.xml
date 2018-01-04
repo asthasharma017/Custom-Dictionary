@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Español Diccionario</string>
+    <string name="action_settings">Settings</string>
+    <string name="hard_words">Hard Words</string>
+    <string name="intermediate_words">Intermediate Words</string>
+    <string name="easy_words">Easy Words</string>
+    <string name="mastered_words">Mastered Words</string>
+    <string name="title_activity_word_list">WordListActivity</string>
+    <string name="title_add_word_activity">AddWordActivity</string>
+    <string name="title_word_description_activity">WordDescriptionActivity</string>
+    <string name="save">Save</string>
+    <string name="phrase">Phrase</string>
+    <string name="meaning">Meaning</string>
+    <string name="description">Description</string>
+    <string name="i_know">I know this word</string>
+    <string name="i_do_not_know">I do not know this word</string>
+    <string name="select_catagory">Select Catagory</string>
+
+    <string-array name="catagory_array">
+        <item>Hard</item>
+        <item>Intermediate</item>
+        <item>Easy</item>
+        <item>Mastered</item>
+    </string-array>
+</resources>
